@@ -51,3 +51,5 @@ This project was built in **Google Colab**, making it easily accessible and exec
 3. Add this code in a cell:
    ```python
    !python nltk_chatbot.py
+*OUTPUT*:
+![Image](https://github.com/user-attachments/assets/cea0f910-2aa3-4aa4-8f64-76d9b8804865)

@@ -10,7 +10,7 @@ DOMAIN: PYTHON
 
 DURATION: 4 WEEKS
 
-MENTOR:
+MENTOR: NEELA SANTOSH
 
 # Simple NLP Chatbot using Python and NLTK
 
